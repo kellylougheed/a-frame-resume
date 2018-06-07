@@ -4,7 +4,7 @@ In this open-ended project, you'll be building your virtual reality resume - tha
 
 ## Instructions
 
-Fork and clone this repository or start from scratch. If you're using a fork of this repository, we've already linked A-Frame and Jquery for you.
+Fork and clone this repository or start from scratch. If you're using a fork of this repository, we've already linked A-Frame for you.
 
 ## Ideas
 
