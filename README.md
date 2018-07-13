@@ -14,10 +14,11 @@ Fork and clone this repository or start from scratch. If you're using a fork of 
 
 + Try using [fancy fonts in A-Frame](https://github.com/etiennepinchon/aframe-fonts).
 
-+ Make it [rain stars](https://www.npmjs.com/package/aframe-particle-system-component).
-
 + Try importing and placing objects of personal significance to you.
 
 + Add objects that you build using [Tinkercad](https://www.tinkercad.com/). Download the .obj and .mtl files to integrate them onto your page.
 
 + Tell us about where you've traveled or would like to travel by adding pictures or objects (i.e. add in the Eiffel Tower if you'd like to go to Paris!).
+
++ Make it [rain stars](https://www.npmjs.com/package/aframe-particle-system-component).
+ 
