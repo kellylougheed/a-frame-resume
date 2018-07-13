@@ -10,9 +10,11 @@ Fork and clone this repository or start from scratch. If you're using a fork of 
 
 + Create a wall of your photos that you can walk up to. (Advanced: Add interactivity - when you click on a photo, have it expand.)
 
-+ Add in clickable links or objects to your social media (Instagram, etc) using the [a-frame href component library](https://github.com/gasolin/aframe-href-component). You'll need to copy and paste the contents of index.js into your own JS file and link it on your index.html page.
++ Add some [text components](https://aframe.io/docs/0.8.0/primitives/a-text.html) to provide more information about yourself.
 
-+ Create text cards (Check out [this example](https://codepen.io/elliepooh/pen/xdQdpb)) with information about your previous work and education experiences.
++ Try using [fancy fonts in A-Frame](https://github.com/etiennepinchon/aframe-fonts).
+
++ Make it [rain stars](https://www.npmjs.com/package/aframe-particle-system-component).
 
 + Try importing and placing objects of personal significance to you.
 
